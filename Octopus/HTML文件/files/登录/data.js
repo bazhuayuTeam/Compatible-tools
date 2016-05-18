@@ -1,0 +1,260 @@
+$axure.loadCurrentPage({
+  "url":"登录.html",
+  "generationDate":new Date(1462772421107.3),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"de777755b6f84bad96fe07944ebe3f39",
+    "type":"Axure:Page",
+    "name":"登录",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"388685369c6a49f5bc34fb07bda461cd",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFD2D2D2},
+{
+                  "color":0xFFD2D2D2},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "size":{
+              "width":930,
+              "height":600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"70b6de3e763f4e13b6ee74cb2a80de27",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFD2D2D2},
+{
+                      "color":0xFFD2D2D2},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "size":{
+                  "width":930,
+                  "height":600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录/u0.png"}},
+{
+          "id":"d2e96ae9addf4e7da7a22324d252969b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":160,
+              "y":134},
+            "size":{
+              "width":530,
+              "height":299}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e7a44f497d24434982cb94139704e55f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":160,
+                  "y":134},
+                "size":{
+                  "width":530,
+                  "height":299}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录/u2.png"}},
+{
+          "id":"f924b359635544b08adb9f1264f60451",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":316,
+              "y":210},
+            "size":{
+              "width":220,
+              "height":30}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f4941e99e58842ddba7ae3c8ca72bb9c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":316,
+              "y":255},
+            "size":{
+              "width":220,
+              "height":30}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4a41c744b0a54c8ca35f68ae925e4509",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":316,
+              "y":300},
+            "size":{
+              "width":104,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"865370462704476193dcf558a196514f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":316,
+                  "y":300},
+                "size":{
+                  "width":104,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 文件上传",
+                      "target":{
+                        "targetType":"page",
+                        "url":"文件上传.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f4d98dc198194d2baa228a4c6815dada",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":432,
+              "y":300},
+            "size":{
+              "width":104,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b8294cf62e7b49b4a39e058ef03432f7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":432,
+                  "y":300},
+                "size":{
+                  "width":104,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 注册",
+                      "target":{
+                        "targetType":"page",
+                        "url":"注册.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "388685369c6a49f5bc34fb07bda461cd":{
+      "scriptId":"u0"},
+    "70b6de3e763f4e13b6ee74cb2a80de27":{
+      "scriptId":"u1"},
+    "d2e96ae9addf4e7da7a22324d252969b":{
+      "scriptId":"u2"},
+    "e7a44f497d24434982cb94139704e55f":{
+      "scriptId":"u3"},
+    "f924b359635544b08adb9f1264f60451":{
+      "scriptId":"u4"},
+    "f4941e99e58842ddba7ae3c8ca72bb9c":{
+      "scriptId":"u5"},
+    "4a41c744b0a54c8ca35f68ae925e4509":{
+      "scriptId":"u6"},
+    "865370462704476193dcf558a196514f":{
+      "scriptId":"u7"},
+    "f4d98dc198194d2baa228a4c6815dada":{
+      "scriptId":"u8"},
+    "b8294cf62e7b49b4a39e058ef03432f7":{
+      "scriptId":"u9"}}});
